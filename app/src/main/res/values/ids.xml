@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contentResult" type="id"></item>
+    <item name="resultado" type="id"></item>
+    <item name="linear" type="id"></item>
+    <item name="btnC" type="id"></item>
+    <item name="btnDividir" type="id"></item>
+    <item name="btnMultiplicar" type="id"></item>
+    <item name="btnSuma" type="id"></item>
+    <item name="btnResta" type="id"></item>
+    <item name="btnBorrar" type="id"></item>
+    <item name="btnPorcentaje" type="id"></item>
+    <item name="btnComa" type="id"></item>
+    <item name="btnCero" type="id"></item>
+    <item name="btnUno" type="id"></item>
+    <item name="btnDos" type="id"></item>
+    <item name="btnTres" type="id"></item>
+    <item name="btnCuatro" type="id"></item>
+    <item name="btnCinco" type="id"></item>
+    <item name="btnSix" type="id"></item>
+    <item name="btnSiete" type="id"></item>
+    <item name="btnOcho" type="id"></item>
+    <item name="btnNueve" type="id"></item>
+    <item name="linear2" type="id"></item>
+    <item name="linear3" type="id"></item>
+    <item name="linear4" type="id"></item>
+    <item name="linear5" type="id"></item>
+    <item name="linear6" type="id"></item>
+
+
+</resources>
