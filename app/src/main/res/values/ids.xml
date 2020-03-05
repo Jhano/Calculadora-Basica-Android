@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="contentResult" type="id"></item>
-    <item name="resultado" type="id"></item>
+    <item name="btnIgual" type="id"></item>
     <item name="linear" type="id"></item>
     <item name="btnC" type="id"></item>
     <item name="btnDividir" type="id"></item>

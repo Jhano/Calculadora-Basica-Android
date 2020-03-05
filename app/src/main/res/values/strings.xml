@@ -6,9 +6,9 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-    <string name="resultado">=</string>
+    <string name="btnIgual">=</string>
     <string name="btnC">C</string>
-    <string name="btnDividir" >/</string>
+    <string name="btnDividir" >÷</string>
     <string name="btnMultiplicar" >X</string>
     <string name="btnSuma" >+</string>
     <string name="btnResta" >-</string>
